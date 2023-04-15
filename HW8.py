@@ -1,7 +1,7 @@
 # Your name: Julia Coffman
 # Your student id: 53549712
 # Your email: coffma@umich.edu
-# List who you have worked with on this homework:
+# List who you have worked with on this homework: Emily Libman, Raina Gebara
 
 import matplotlib.pyplot as plt
 import os
