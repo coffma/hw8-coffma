@@ -106,7 +106,7 @@ def find_rest_in_building(building_num, db):
     print(restaurant)
     return restaurant
 
-
+#Try to complete this part#
 #EXTRA CREDIT
 def get_highest_rating(db): #Do this through DB as well
     """
